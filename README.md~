@@ -16,7 +16,7 @@ Usage:
         i. java dijikstra –f file-name
         
 3. User defined graphs are specified in a file with the following format:
-        x //source vertex
+        x //source node
         n m //n is the number of vertices and m is the number of edges
         v1 v2 c1 //the edge from vertex v1 to vertex v2 with cost c1
         v2 v3 c2 //the edge from vertex v2 to vertex v3 with cost c2
