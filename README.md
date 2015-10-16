@@ -11,15 +11,15 @@ Usage:
 
     a. To generate a random graph with n nodes, d edge density, and source node x. The output will be the runtime of the algorithm using a leftist tree and fibonacci tree. The shortest paths will also be listed:
     
-        i. java dijikstra –r n d x
+        java dijikstra –r n d x
         
     b. To run the algorithm using a leftist tree and a user defined graph. The output will be a list of the shortest paths:
     
-        i. java dijikstra –l file-name
+        java dijikstra –l file-name
         
     c. To run the algorithm using a fibonacci tree and a user defined graph. The output will be a list of the shortest paths:
     
-        i. java dijikstra –f file-name
+        java dijikstra –f file-name
         
 3. User defined graphs are specified in a file with the following format:
 
